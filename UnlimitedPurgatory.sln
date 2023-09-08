@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COTL-Unlimited-Purgatory", "COTL-Unlimited-Purgatory.csproj", "{DE79FE5E-4B27-47D7-81E7-2606AB6946FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnlimitedPurgatory", "UnlimitedPurgatory.csproj", "{1C7402A8-D5E7-4958-B3A1-8D2988BB222A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE79FE5E-4B27-47D7-81E7-2606AB6946FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE79FE5E-4B27-47D7-81E7-2606AB6946FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE79FE5E-4B27-47D7-81E7-2606AB6946FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE79FE5E-4B27-47D7-81E7-2606AB6946FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7402A8-D5E7-4958-B3A1-8D2988BB222A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7402A8-D5E7-4958-B3A1-8D2988BB222A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7402A8-D5E7-4958-B3A1-8D2988BB222A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7402A8-D5E7-4958-B3A1-8D2988BB222A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {97B6B0E9-46CC-4E13-952E-808E6ACDD499}
+		SolutionGuid = {3ACC94E7-ED20-43B1-888C-3C56C38A0473}
 	EndGlobalSection
 EndGlobal
