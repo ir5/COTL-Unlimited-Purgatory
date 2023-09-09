@@ -1,0 +1,9 @@
+{
+  "name": "Unlimited_Purgatory",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/ir5/COTL-Unlimited-Purgatory",
+  "description": "You can enter the purgatory as many times a day as you want!",
+  "dependencies": [
+    "BepInEx-BepInExPack_CultOfTheLamb-5.4.21"
+  ]
+}
